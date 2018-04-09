@@ -1,0 +1,7 @@
+D:\gmk\consoleW\TTDemo\TTDemo\bin\Debug\TTDemo.exe.config
+D:\gmk\consoleW\TTDemo\TTDemo\bin\Debug\TTDemo.exe
+D:\gmk\consoleW\TTDemo\TTDemo\bin\Debug\TTDemo.pdb
+D:\gmk\consoleW\TTDemo\TTDemo\bin\Debug\MySql.Data.dll
+D:\gmk\consoleW\TTDemo\TTDemo\obj\Debug\TTDemo.csprojResolveAssemblyReference.cache
+D:\gmk\consoleW\TTDemo\TTDemo\obj\Debug\TTDemo.exe
+D:\gmk\consoleW\TTDemo\TTDemo\obj\Debug\TTDemo.pdb
